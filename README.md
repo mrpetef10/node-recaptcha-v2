@@ -2,7 +2,7 @@
 
 node-recaptcha renders and verifies [Recaptcha](http://www.google.com/recaptcha) captchas.
 
-**NOTE**: This release only supports the latest v2 reCAPTCHA (http://www.google.com/recaptcha)
+**NOTE**: This release uses the latest v2 reCAPTCHA (http://www.google.com/recaptcha)
 
 ## Installation
 
