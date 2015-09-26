@@ -1,8 +1,8 @@
 {
   "name": "recaptcha-v2",
-  "version": "0.2.0",
+  "version": "0.1.2",
   "description": "Obtain a v2 reCAPTCHA form and verify it",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "example": "examples"
   },

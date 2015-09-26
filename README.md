@@ -1,8 +1,8 @@
 # node-recaptcha
 
-node-recaptcha renders and verifies [Recaptcha](http://www.google.com/recaptcha) captchas.
+node-recaptcha renders and verifies [reCAPTCHA](http://www.google.com/recaptcha) captchas.
 
-**NOTE**: This release uses the latest v2 reCAPTCHA (http://www.google.com/recaptcha)
+**NOTE**: This release uses the latest v2 [reCAPTCHA] (http://www.google.com/recaptcha)
 
 ## Installation
 
@@ -16,7 +16,7 @@ Via npm:
 
 ## Setup
 
-Before you can use this module, you must visit (http://www.google.com/recaptcha)
+Before you can use this module, you must visit [reCAPTCHA] (http://www.google.com/recaptcha)
 to request a public and private API key for your domain.
 
 ## Example Using [Express](http://www.expressjs.com)
