@@ -1,0 +1,43 @@
+{
+  "name": "recaptcha-v2",
+  "description": "Display and verify a reCAPTCHA",
+  "version": "1.2.1",
+  "author": {
+    "name": "Pete Mardell"
+  },
+  "main": "./lib/recaptcha.js",
+  "devDependencies": {
+    "nodeunit": "*"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrpetef10/node-recaptcha-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrpetef10/node-recaptcha-v2/issues"
+  },
+  "homepage": "https://github.com/mrpetef10/node-recaptcha-v2",
+  "_id": "recaptcha-v2@0.0.9",
+  "dist": {
+    "shasum": "3d7a576a525aa19270d8b0ac90820ee7ca9eb8ae",
+    "tarball": "http://registry.npmjs.org/recaptcha/-/recaptcha-1.2.1.tgz"
+  },
+  "_from": "recaptcha@*",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "mirhampt",
+    "email": "mirhampt@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "mirhampt",
+      "email": "mirhampt@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "3d7a576a525aa19270d8b0ac90820ee7ca9eb8ae",
+  "_resolved": "https://registry.npmjs.org/recaptcha/-/recaptcha-1.2.1.tgz"
+}
