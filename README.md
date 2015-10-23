@@ -24,7 +24,7 @@ to request a public and private API key for your domain.
 app.js:
 
     var express  = require('express'),
-        Recaptcha = require('recaptcha').Recaptcha;
+        Recaptcha = require('recaptcha-v2').Recaptcha;
 
     var PUBLIC_KEY  = 'YOUR_PUBLIC_KEY',
         PRIVATE_KEY = 'YOUR_PRIVATE_KEY';
